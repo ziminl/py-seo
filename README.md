@@ -22,3 +22,11 @@ insite link
 mobile friendly
 
 avoid similar contents
+
+
+
+
+
+#links
+
+https://advertools.readthedocs.io/en/master/
