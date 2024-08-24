@@ -1,5 +1,4 @@
-# py-seo
-seo by python
+# seo docs and things i need to know and do
 
 https://www.jcchouinard.com/python-for-seo/
 
@@ -27,7 +26,7 @@ avoid similar contents
 
 
 
-#links
+# links
 
 https://advertools.readthedocs.io/en/master/
 
