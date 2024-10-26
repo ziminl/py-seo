@@ -30,6 +30,8 @@ avoid similar contents
 
 https://advertools.readthedocs.io/en/master/
 
+https://webforgood.fr/
+
 
 https://github.com/sureshkumargondi/SeoThings
 
